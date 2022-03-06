@@ -1,1 +1,1 @@
-#Gerekli Kütüphaneler
+Gerekli Kütüphaneler
